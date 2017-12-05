@@ -13,3 +13,5 @@ Finishing up MapKit tutorial. Focusing on adding annotations and json.
 ### R1D3
 More iOS stuff. User Location Authorization. Review of some syntax I had forgotten. Brain is full.
 
+### R1D4
+Closures, closures, closures. Why does this syntax cause me so much confusion? Working through it.
