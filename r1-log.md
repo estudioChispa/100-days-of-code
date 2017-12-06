@@ -15,3 +15,6 @@ More iOS stuff. User Location Authorization. Review of some syntax I had forgott
 
 ### R1D4
 Closures, closures, closures. Why does this syntax cause me so much confusion? Working through it.
+
+### R1D5
+Basic layout of my iOS app. It includes a map which is why I spent time with the MapKit tutorial. Super helpful.
