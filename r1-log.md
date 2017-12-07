@@ -18,3 +18,6 @@ Closures, closures, closures. Why does this syntax cause me so much confusion? W
 
 ### R1D5
 Basic layout of my iOS app. It includes a map which is why I spent time with the MapKit tutorial. Super helpful.
+
+### R1D6
+iOS and Swift. Today’s topic: Auto Layout. Trouble with a scroll view not working as expected led to a tutorial or two.
