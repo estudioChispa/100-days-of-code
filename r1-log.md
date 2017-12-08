@@ -21,3 +21,6 @@ Basic layout of my iOS app. It includes a map which is why I spent time with the
 
 ### R1D6
 iOS and Swift. Today’s topic: Auto Layout. Trouble with a scroll view not working as expected led to a tutorial or two.
+
+### R1D7
+iOS and Swift. Working on adding search to my app and rethinking data structure.
