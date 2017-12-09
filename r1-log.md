@@ -24,3 +24,6 @@ iOS and Swift. Today’s topic: Auto Layout. Trouble with a scroll view not work
 
 ### R1D7
 iOS and Swift. Working on adding search to my app and rethinking data structure.
+
+### R1D8
+iOS and Swift. Tweaking layout of table cells. Spent some time learning more about Git.
