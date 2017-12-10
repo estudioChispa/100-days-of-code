@@ -27,3 +27,6 @@ iOS and Swift. Working on adding search to my app and rethinking data structure.
 
 ### R1D8
 iOS and Swift. Tweaking layout of table cells. Spent some time learning more about Git.
+
+### R1D9
+iOS and Swift. Setting up calls to the data source and figuring out how to handle the JSON data that’s returned.
