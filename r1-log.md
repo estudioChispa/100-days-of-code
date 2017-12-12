@@ -33,3 +33,6 @@ iOS and Swift. Setting up calls to the data source and figuring out how to handl
 
 ### R1D10
 iOS and Swift. More fun with JSON today.
+
+### R1D11
+Got distracted with some HTML stuff and Stack Overflow today. Did learn some Swift stuff from a question on SO, though.
