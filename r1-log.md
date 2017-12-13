@@ -36,3 +36,6 @@ iOS and Swift. More fun with JSON today.
 
 ### R1D11
 Got distracted with some HTML stuff and Stack Overflow today. Did learn some Swift stuff from a question on SO, though.
+
+### R1D12
+iOS and Swift. Trying to get my head around the difference between casting “as! String”, “as! String?”, and “as? String”.
