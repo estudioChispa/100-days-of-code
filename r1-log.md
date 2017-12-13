@@ -39,3 +39,6 @@ Got distracted with some HTML stuff and Stack Overflow today. Did learn some Swi
 
 ### R1D12
 iOS and Swift. Trying to get my head around the difference between casting “as! String”, “as! String?”, and “as? String”.
+
+### R1D14
+iOS and Swift. Asynchronous network requests. Just learned about the Network Link Conditioner to simulate a really slow connection. Cool!
