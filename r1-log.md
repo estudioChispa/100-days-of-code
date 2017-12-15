@@ -42,3 +42,6 @@ iOS and Swift. Trying to get my head around the difference between casting “as
 
 ### R1D13
 iOS and Swift. Asynchronous network requests. Just learned about the Network Link Conditioner to simulate a really slow connection. Cool!
+
+### R1D14
+iOS and Swift. More asynchronous stuff. Spent a little time on some accessibility elements, too.
