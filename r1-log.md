@@ -48,3 +48,6 @@ iOS and Swift. More asynchronous stuff. Spent a little time on some accessibilit
 
 ### R1D15
 iOS and Swift. Learning more about asynchronous queues and GCD. Going slower than I had hoped, but learning a lot.
+
+### R1D16
+iOS and Swift. Today’s topic: URL Session and error handling. Hope to have more time to code tomorrow. Today was a short day, but at least I got a little bit of coding in.
