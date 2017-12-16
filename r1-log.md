@@ -45,3 +45,6 @@ iOS and Swift. Asynchronous network requests. Just learned about the Network Lin
 
 ### R1D14
 iOS and Swift. More asynchronous stuff. Spent a little time on some accessibility elements, too.
+
+### R1D15
+iOS and Swift. Learning more about asynchronous queues and GCD. Going slower than I had hoped, but learning a lot.
