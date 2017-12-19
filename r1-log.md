@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D18
+Hard to find time to code today. Cleaned up a  few things from yesterday. Nothing really new to report today.
+
 ### R1D17
 More error handling. And tracking down a bug. Sigh.
 
