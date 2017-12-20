@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D19
+iOS and Swift. Added a segmented control and code to limit the search to specific categories.
+
 ### R1D18
 Hard to find time to code today. Cleaned up a  few things from yesterday. Nothing really new to report today.
 
