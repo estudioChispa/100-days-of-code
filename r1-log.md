@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D21 
+iOS and Swift. Note to self: Sometimes you just have to restart Xcode, rather than continuing to try and find the problem that you’re pretty sure you’ve already fixed.
+
 ### R1D20 
 iOS and Swift. Don’t feel like I made much progress today. I guess some days are just harder than others.
 
