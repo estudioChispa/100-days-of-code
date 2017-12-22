@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D22 
+iOS and Swift. Spent some more time learning about Core Data.
+
 ### R1D21 
 iOS and Swift. Note to self: Sometimes you just have to restart Xcode, rather than continuing to try and find the problem that you’re pretty sure you’ve already fixed.
 
