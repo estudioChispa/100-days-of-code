@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D25 
+iOS and Swift. More MapKit and some JSON stuff. Busy day. Just glad I made some time to code today.
+
 ### R1D24 
 iOS and Swift. More MapKit fun and games. I don’t why I’m having so much trouble with MKMapSnapshotter.
 
