@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D26 
+iOS and Swift. Researched a couple of third-party networking libraries. Started on the detail view layout for my app. 
+
 ### R1D25 
 iOS and Swift. More MapKit and some JSON stuff. Busy day. Just glad I made some time to code today.
 
