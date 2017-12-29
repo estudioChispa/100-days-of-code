@@ -3,6 +3,14 @@
 The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
+### R1D29 
+iOS and Swift. Struggling a little with AutoLayout. Probably just need a cuppa tea.
+
+### R1D28 
+iOS and Swift. Changing the layout up a little bit — a pop up in place of the standard detail view.
+
+### R1D27 
+iOS and Swift. Learning about Presentation Controllers and Animation Controllers.
 
 ### R1D26 
 iOS and Swift. Researched a couple of third-party networking libraries. Started on the detail view layout for my app. 
