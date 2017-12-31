@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D31 
+iOS and Swift. Had so much fun with the animations yesterday that I did some more today. 
+
 ### R1D30
 iOS and Swift. Made it through the AutoLayout swamp. Playing with some animation stuff today.
 
