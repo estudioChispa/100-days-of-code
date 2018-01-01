@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D32 
+iOS and Swift. Thinking about a view controller being a part of another view controller. And more animations, of course.
+
 ### R1D31 
 iOS and Swift. Had so much fun with the animations yesterday that I did some more today. 
 
