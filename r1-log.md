@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D34 
+iOS and Swift. Reviewing a few concepts that I obviously did not completely understand. 
+
 ### R1D33 
 iOS and Swift. Feel like I’m just stumbling about in Xcode today. I think tomorrow I’ll set aside some time to review what I’ve been learning lately and see if that helps.
 
