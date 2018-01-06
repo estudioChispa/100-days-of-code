@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D37 
+iOS and Swift. Got totally sidetracked learning about crash logs. My app isn’t crashing (yet), but I came across the term symbolification and had to learn more.
+
 ### R1D36 
 iOS and Swift. Working with ScrollViews and fixing some AutoLayout issues.
 
