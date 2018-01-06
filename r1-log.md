@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D36 
+iOS and Swift. Working with ScrollViews and fixing some AutoLayout issues.
+
 ### R1D35 
 iOS and Swift A little more review. It’s been a busy week, but feels good to have time set aside for code.
 
