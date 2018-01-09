@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D39 
+iOS and Swift. Today was a struggle. Nothing seemed to be working. Deep breath and try again.
+
 ### R1D38 
 iOS and Swift. Today’s reminder: The order in which you do things matters. Sigh.
 
