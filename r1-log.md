@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D40 
+iOS and Swift. Started a new project. A little bit of code and some time spent on the design. (forgot to tweet this yesterday)
+
 ### R1D39 
 iOS and Swift. Today was a struggle. Nothing seemed to be working. Deep breath and try again.
 
