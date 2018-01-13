@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D43
+iOS and Swift. Success today with my table layout. So far, so good!
+
 ### R1D42 
 iOS and Swift. Trying to figure out the best way to lay out the table view cells for this app. We’ll see how this turns out.
 
