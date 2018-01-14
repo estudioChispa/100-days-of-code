@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D45
+iOS and Swift. Reviewing some Core Data stuff.
+
 ### R1D44
 iOS and Swift. Finally got the date that the "to do list" item was added to show up as the section header. Don't know why I struggled so much getting the Date formatted as text. The final bit of code is so simple. 
 
