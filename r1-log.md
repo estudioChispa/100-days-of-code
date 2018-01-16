@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D46
+iOS and Swift. A slow day. Some things worked, some things didn't. Hope to have more time to code tomorrow.
+
 ### R1D45
 iOS and Swift. Reviewing some Core Data stuff.
 
