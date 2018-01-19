@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D49
+iOS and Swift. Can't believe that tomorrow will be the halfway point!
+
 ### R1D48
 iOS and Swift. Lots of interruptions today. Feeling like I didn't make any progress on my project. 
 
