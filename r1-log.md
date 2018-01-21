@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D51
+iOS and Swift. Changing up the data structure a bit. 
+
 ### R1D50
 iOS and Swift. Day 50! Spent time reviewing some code that I've written so far.
 
