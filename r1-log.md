@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D54
+iOS and Swift. Researching tvOS. One little question led to more and more questions. Of course, now I want to make an app for Apple TV.
+
 ### R1D53
 Looks like I numbered yesterday’s entry incorrectly. Should’ve been R1D52. So today is R1D53
 iOS and Swift. Taking a break from working on my project to run through a tutorial (or two).
