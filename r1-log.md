@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D55
+iOS and Swift. Tried a cool animation tutorial but the code was so beyond my current capabilities that I stopped halfway through. But, I did learn how to set constraints programmatically, so there's that.
+
 ### R1D54
 iOS and Swift. Researching tvOS. One little question led to more and more questions. Of course, now I want to make an app for Apple TV.
 
