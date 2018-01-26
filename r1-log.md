@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D56
+iOS and Swift. Back on the map part of my project. The map itself is mostly done, just rethinking the layout of the detail views.
+
 ### R1D55
 iOS and Swift. Tried a cool animation tutorial but the code was so beyond my current capabilities that I stopped halfway through. But, I did learn how to set constraints programmatically, so there's that.
 
