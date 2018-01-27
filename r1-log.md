@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D58
+iOS and Swift. Slow progress, but I at least feel like I'm moving forward.
+
 ### R1D57
 iOS and Swift. Exploring expandable table view cells. This may be the direction I go for the detail views.
 
