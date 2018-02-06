@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D67
+iOS and Swift. Got distracted with an idea for a Mac OS menu bar app. No work on my iOS app today, but learned a lot!
+
 ### R1D66
 iOS and Swift. Lots of mistakes today. Felt like one step forward and 3 steps back. Hope I've got things back on track. 
 
