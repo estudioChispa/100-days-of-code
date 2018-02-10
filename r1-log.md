@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D71
+iOS and Swift. Struggling with typos. Probably should've done my coding earlier in the day. Also learning about Singletons.
+
 ### R1D70
 iOS and Swift. Working with Date and time formatting. Nothing too exciting.
 
