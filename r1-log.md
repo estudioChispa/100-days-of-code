@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D74
+iOS and Swift. Doing a quick review of some recent work.
+
 ### R1D73
 iOS and Swift. A little follow up on my macOS menu bar app. Learned about macOS global event monitor today.
 
