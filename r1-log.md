@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D76
+iOS and Swift. Learning about CocoaPods and Carthage today.
+
 ### R1D75
 iOS and Swift. Thought I was going to have so much time to spend coding today. Oh, well. At least I can spend the next hour on it.
 
