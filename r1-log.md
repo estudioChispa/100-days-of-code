@@ -5,7 +5,7 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 ## Log
 
 ### R1D78
-iOS and Swift. Found a couple of really good tutorials on CocoaPods and Carthage. Will definitely implement in my current project.
+iOS and Swift. Found a couple of really good tutorials on CocoaPods and Carthage. Will definitely implement in my current project for HTTP networking and animation.
 
 ### R1D77
 iOS and Swift. More on CocoaPods and Carthage. And some time spent on StackOverflow.
