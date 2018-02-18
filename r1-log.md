@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D79
+iOS and Swift. Working on animating transitions. Fun stuff.
+
 ### R1D78
 iOS and Swift. Found a couple of really good tutorials on CocoaPods and Carthage. Will definitely implement in my current project for HTTP networking and animation.
 
