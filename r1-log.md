@@ -4,6 +4,12 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D81 
+iOS and Swift. Finally know how I want the views in my app to segue to / from one another. Now, to make what I see in my mind a reality.
+
+### R1D80
+Wow, I’ve made it to Day 80!
+
 ### R1D79
 iOS and Swift. Working on animating transitions. Fun stuff.
 
