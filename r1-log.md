@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D82
+R1D82 iOS and Swift. Investigating Hero transitions library. Fun stuff!
+
 ### R1D81 
 iOS and Swift. Finally know how I want the views in my app to segue to / from one another. Now, to make what I see in my mind a reality.
 
