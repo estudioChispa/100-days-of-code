@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D85
+iOS and Swift. Ugh, I'm beginning to think that having a scrolling text view inside a collection view cell is more trouble than it is worth.
+
 ### R1D84
 iOS and Swift. Not feeling all that great today, but managed to get in some coding time.
 
