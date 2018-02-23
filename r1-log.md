@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D84
+iOS and Swift. Not feeling all that great today, but managed to get in some coding time.
+
 ### R1D83
 iOS and Swift. Not a very productive day. Trying to make sure I understand CollectionViews.
 
