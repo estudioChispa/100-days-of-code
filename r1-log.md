@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D86
+iOS and Swift. Spent some time with the Stanford iTunesU course, CS193P "Developing iOS 11 Apps with Swift", with Paul Hegarty. Really great. 
+
 ### R1D85
 iOS and Swift. Ugh, I'm beginning to think that having a scrolling text view inside a collection view cell is more trouble than it is worth.
 
