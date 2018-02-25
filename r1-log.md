@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D87
+iOS and Swift. I am totally addicted to the Stanford iTunesU course, "Developing iOS 11 Apps with Swift." Currently binge watching.
+
 ### R1D86
 iOS and Swift. Spent some time with the Stanford iTunesU course, CS193P "Developing iOS 11 Apps with Swift", with Paul Hegarty. Really great. 
 
