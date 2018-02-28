@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D89
+iOS and Swift. Spent some time with dictionaries. Can't believe how close I'm getting to day 100!
+
 ### R1D88
 iOS and Swift. Seems weird that I've never used an @IBOutlet Collection before. But now I have. 
 
