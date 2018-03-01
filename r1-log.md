@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D90
+iOS and Swift. Learning more about enums and optionals.
+
 ### R1D89
 iOS and Swift. Spent some time with dictionaries. Can't believe how close I'm getting to day 100!
 
