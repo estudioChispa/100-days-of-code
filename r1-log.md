@@ -4,6 +4,12 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R193
+iOS and Swift. Just discovered Weekly iOS Code Challenge on CodeWithChris.com. Very cool! @CodeWithChris
+
+### R191-92
+iOS and Swift. Family visiting from out of town but still finding a little bit of time to code. Spent time planning my next project and watching some more of the CS193P class from Stanford.
+
 ### R1D90
 iOS and Swift. Learning more about enums and optionals.
 
