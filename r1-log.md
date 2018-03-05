@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R194
+iOS and Swift. Time to do a little review of the things I’ve learned lately.
+
 ### R193
 iOS and Swift. Just discovered Weekly iOS Code Challenge on CodeWithChris.com. Very cool! @CodeWithChris
 
