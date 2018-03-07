@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D96
+iOS and Swift. Just love seeing that "Build Succeeded" message. 🔨
+
 ### R1D95
 iOS and Swift. Went back to an older project and spent way to much time trying to figure out what I was doing. Note to self: Add more comments!
 
