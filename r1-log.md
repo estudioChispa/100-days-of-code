@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D98 
+iOS and Swift. Spent the day doing a lot of troubleshooting and very little coding. Hopefully tomorrow will be more productive.
+
 ### R1D97 
 iOS and Swift. Learned how to make my own code snippets in Xcode. Shoulda been doing this all along.
 
