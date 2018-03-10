@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
 
 ## Log
 
+### R1D100 
+iOs and Swift. Woohoo! Day 100! Think I'll take a few days off and then start a second round (and add in #100DaysOfSpanish). Learned a lot during these last 100 days. Thank you to @ka11away for coming up with this great idea, and thanks to everyone for the likes and retweets. They helped so much!
+
 ### R1D99
 iOS and Swift. Everytime I watch the Stanford CS193P class I learn so much, even on the topics I think I kind of understand. A big thank you to @Stanford for sharing! And, did I mention that tomorrow is day 100!!!!!!!!
 
