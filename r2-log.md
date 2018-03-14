@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 2 - [Cindy Yates]
 
-The log of my #100DaysOfCode challenge. Started on [December 1, Friday, 2017].
+The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
