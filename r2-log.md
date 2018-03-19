@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D6 - March 19, 2018
+Feeling a little under the weather today, but worked on the mapView of my app for a bit. #100DaysOfCode #Swift #iOS
+
 ### R2D5 - March 18, 2018
 Started basic layout of my app in Xcode. So far, so good. #100DaysOfCode #Swift #iOS
 
