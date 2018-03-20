@@ -5,7 +5,7 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 ## Log
 
 ### R2D7 - March 20, 2018
-Got distracted by an idea for iMessages Stickers. On the one hand, I learned all about making a sticker set. On the other hand, I didn't get anything done on my app. 
+Got distracted by an idea for iMessage Sticker Pack. On the one hand, I learned all about making a sticker set. On the other hand, I didn't get anything done on my app. #100DaysOfCode #Swift #iOS
 
 ### R2D6 - March 19, 2018
 Feeling a little under the weather today, but worked on the mapView of my app for a bit. #100DaysOfCode #Swift #iOS
