@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D8 - March 21, 2018
+Spent some time with WWDC videos today. My brain is full. 🧠 #100DaysOfCode #Swift #iOS
+
 ### R2D7 - March 20, 2018
 Got distracted by an idea for iMessage Sticker Pack. On the one hand, I learned all about making a sticker set. On the other hand, I didn't get anything done on my app. #100DaysOfCode #Swift #iOS
 
