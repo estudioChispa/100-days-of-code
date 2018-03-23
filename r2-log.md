@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D9 - March 22, 2018
+Playing around with different segues. Hadn't thought about using a splitViewController, but I think it's exactly what I need. #100DaysOfCode #Swift #iOS
+
 ### R2D8 - March 21, 2018
 Spent some time with WWDC videos today. My brain is full. 🧠 #100DaysOfCode #Swift #iOS
 
