@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D13 - March 26, 2018
+Custom cell layouts. Too many options. I just need to stop changing my mind, and move forward. #100DaysOfCode #Swift #iOS
+
 ### R2D12 - March 25, 2018
 Tired today, not super productive but did spend some time coding. Little by little. #100DaysOfCode #Swift #iOS
 
