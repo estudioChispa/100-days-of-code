@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D12 - March 25, 2018
+Tired today, not super productive but did spend some time coding. Little by little. #100DaysOfCode #Swift #iOS
+
 ### R2D11 - March 24, 2018
 Segues, segues, segues. #100DaysOfCode #Swift #iOS
 
