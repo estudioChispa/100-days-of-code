@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D14 - March 27, 2018
+Tried the Master-Detail template. Spent more time removing and undoing the parts I didn't need than if I had just started from scratch. Lesson learned. #100DaysOfCode #Swift #iOS
+
 ### R2D13 - March 26, 2018
 Custom cell layouts. Too many options. I just need to stop changing my mind, and move forward. #100DaysOfCode #Swift #iOS
 
