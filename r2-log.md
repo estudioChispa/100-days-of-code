@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D15 - March 28, 2018
+Pulling my hair out over auto layout constraints. Just when I think I'm getting it, it all falls apart. #100DaysOfCode #Swift #iOS
+
 ### R2D14 - March 27, 2018
 Tried the Master-Detail template. Spent more time removing and undoing the parts I didn't need than if I had just started from scratch. Lesson learned. #100DaysOfCode #Swift #iOS
 
