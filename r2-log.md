@@ -4,7 +4,10 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
-### R2D16 - March 29, 208
+### R2D17 - March 30, 2018
+Learned how to change the width of the master view in a splitView Controller. Thanks to @kharrison (useyourloaf.com)! #100DaysOfCode #Swift #iOS
+
+### R2D16 - March 29, 2018
 Maybe a collectionView instead of a tableView?  #100DaysOfCode #Swift #iOS
 
 ### R2D15 - March 28, 2018
