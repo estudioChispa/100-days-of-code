@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D18 - March 31, 2018
+Rounded corners and shadows don't like to play nice together. Thank you Stack Overflow for helping me understand why. #100DaysOfCode #Swift #iOS
+
 ### R2D17 - March 30, 2018
 Learned how to change the width of the master view in a splitView Controller. Thanks to @kharrison (useyourloaf.com)! #100DaysOfCode #Swift #iOS
 
