@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D19 - April 1, 2018
+Some days the simple stuff ends up taking forever. Sigh. #100DaysOfCode #Swift #iOS
+
 ### R2D18 - March 31, 2018
 Rounded corners and shadows don't like to play nice together. Thank you Stack Overflow for helping me understand why. #100DaysOfCode #Swift #iOS
 
