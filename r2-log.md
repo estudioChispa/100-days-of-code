@@ -4,6 +4,12 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D21 - April 3, 2018
+Working on a scrollview with dynamic height. 
+
+### R2D20 - April 2, 2018
+Cleaned up some code. Made cute little icons for a tab view controller. #100DaysOfCode #Swift #iOS
+
 ### R2D19 - April 1, 2018
 Some days the simple stuff ends up taking forever. Sigh. #100DaysOfCode #Swift #iOS
 
