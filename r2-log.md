@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D22 - April 4, 2018
+Broke the scrollview I worked on yesterday. :-( #100DaysOfCode #Swift #iOS
+
 ### R2D21 - April 3, 2018
 Working on a scrollview with dynamic height. #100DaysOfCode #Swift #iOS
 
