@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D25 - April 7, 2018
+Working on a few autolayout issues, focusing on adaptive layout for the various size classes / traits. It feels like one step forward and two steps back, but it's slowly coming together.  #100DaysOfCode #Swift #iOS
+
 ### R2D24 - April 6, 2018
 Not a lot of time to code today, but managed to clean up a few things. #100DaysOfCode #Swift #iOS
 
