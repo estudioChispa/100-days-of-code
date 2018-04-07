@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D24 - April 6, 2018
+Not a lot of time to code today, but managed to clean up a few things. #100DaysOfCode #Swift #iOS
+
 ### R2D23 - April 5, 2018
 I have conquered the scrollView with dynamic height problem! Now to have some fun making the app icon. #100DaysOfCode #Swift #iOS
 
