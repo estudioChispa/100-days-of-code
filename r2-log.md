@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D27 - April 9, 2018
+A little more work on the mapView. Connecting all the parts of the app. Think it's finally coming together. #100DaysOfCode #Swift #iOS
+
 ### R2D26 - April 8, 2018
 Probably because I've struggled with autolayout so much lately, I think I'm finally getting it. #100DaysOfCode #Swift #iOS
 
