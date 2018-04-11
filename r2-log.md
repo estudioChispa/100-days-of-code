@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D29 - April 11, 2018
+Need to revisit some tutorials on view controller transitions and animations now that I'm at the point where I'm ready to implement. #100DaysOfCode #Swift #iOS
+
 ### R2D28 - April 10, 2018
 Really productive day. Fun to see my app taking shape! #100DaysOfCode #Swift #iOS
 
