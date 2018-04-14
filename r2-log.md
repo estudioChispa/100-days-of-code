@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D31 - April 13, 2018
+Nothing spectacular today, just doing some cleanup. Spent some time mapping out the steps needed to finish up this app. #100DaysOfCode #Swift #iOS 
+
 ### R2D30 - April 12, 2018
 Frustrating day. Not a lot of time to code, and spent most of it struggling to do something that turned out to be so simple. At least it's working now. #100DaysOfCode #Swift #iOS 
 
