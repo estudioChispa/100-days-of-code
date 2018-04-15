@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D32 - April 14, 2018
+Back to the splitViewController. Most of it's working. :-) #100DaysOfCode #Swift #iOS 
+
 ### R2D31 - April 13, 2018
 Nothing spectacular today, just doing some cleanup. Spent some time mapping out the steps needed to finish up this app. #100DaysOfCode #Swift #iOS 
 
