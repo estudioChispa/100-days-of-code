@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D33 - April 15, 2018
+Just when I was about to give up, I finally understood what the Apple Documentation had been trying to tell me all along about UITabBarController. Yay! Ending this coding session on a high note. #100DaysOfCode #Swift #iOS 
+
 ### R2D32 - April 14, 2018
 Back to the splitViewController. Most of it's working. :-) #100DaysOfCode #Swift #iOS 
 
