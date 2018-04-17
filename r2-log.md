@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D34 - April 16, 2018
+Made really good progress following yesterday's "Eureka!" moment. Right up until the time I broke the scrollView. Again. I'm still going to count this as 10 steps forward, only 1 step back. #100DaysOfCode #Swift #iOS 
+
 ### R2D33 - April 15, 2018
 Just when I was about to give up, I finally understood what the Apple Documentation had been trying to tell me all along about UITabBarController. Yay! Ending this coding session on a high note. #100DaysOfCode #Swift #iOS 
 
