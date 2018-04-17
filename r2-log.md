@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D35 - April 17, 2018
+Updated the table view so that the cells look like cards. Added the map view back to the app. Decided to add another element to the scrollView and didn't break it this time. Yay! #100DaysOfCode #Swift #iOS
+
 ### R2D34 - April 16, 2018
 Made really good progress following yesterday's "Eureka!" moment. Right up until the time I broke the scrollView. Again. I'm still going to count this as 10 steps forward, only 1 step back. #100DaysOfCode #Swift #iOS 
 
