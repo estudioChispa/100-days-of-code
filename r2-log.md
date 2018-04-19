@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D37 - April 19, 2018
+Time well spent on tutorials yesterday. At least one "nice to have" feature I was thinking of would be super simple to add, but now that I've thought it through it doesn't add any real functionality and would seem like a dumb add-on.  #100DaysOfCode #Swift #iOS
+
 ### R2D36 - April 18, 2018
 Took a little break from working on the app and went through a couple of tutorials for some "nice to have" features I've been thinking about.  #100DaysOfCode #Swift #iOS
 
