@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D36 - April 18, 2018
+Took a little break from working on the app and went through a couple of tutorials for some "nice to have" features I've been thinking about.  #100DaysOfCode #Swift #iOS
+
 ### R2D35 - April 17, 2018
 Updated the table view so that the cells look like cards. Added the map view back to the app. Decided to add another element to the scrollView and didn't break it this time. Yay! #100DaysOfCode #Swift #iOS
 
