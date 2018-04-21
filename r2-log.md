@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D38 - April 20, 2018
+Spent the day falling in love with Stack Views. I mean, we still argue a little, but I'm totally smitten. #100DaysOfCode #Swift #iOS
+
 ### R2D37 - April 19, 2018
 Time well spent on tutorials yesterday. At least one "nice to have" feature I was thinking of would be super simple to add, but now that I've thought it through it doesn't add any real functionality and would seem like a dumb add-on.  #100DaysOfCode #Swift #iOS
 
