@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D41 - April 23, 2018
+A little deeper dive into custom subviews with Xib files, and spent some time with unwind segues. #100DaysOfCode #Swift #iOS
+
 ### R2D40 - April 22, 2018
 Created app icon and launch screen. Cleaned up a little code from yesterday's coding frenzy.  #100DaysOfCode #Swift #iOS
 
