@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D45 - April 27, 2018
+Having trouble focusing today. Just want to finish up the collectionView started yesterday. #100DaysOfCode #Swift #iOS
+
 ### R2D44 - April 26, 2018
 Added images to the map annotations. Seems like a small thing, but added a lot to the user experience, I think. Working on the collectionView for the gallery section. #100DaysOfCode #Swift #iOS
 
