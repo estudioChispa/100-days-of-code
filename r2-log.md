@@ -4,6 +4,12 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D44 - April 26, 2018
+Added images to the map annotations. Seems like a small thing, but added a lot to the user experience, I think. Working on the collectionView for the gallery section. #100DaysOfCode #Swift #iOS
+
+### R2D43 - April 25, 2018
+At least once a week I forget to tweet about my progress. So, even though I didn't mention it yesterday, I did get some stuff done. Added a navigation bar where it was needed and worked on a bunch of images. #100DaysOfCode #Swift #iOS
+
 ### R2D42 - April 24, 2018
 Not a super productive day, but I did figure out a segue thing that had been bugging me. #100DaysOfCode #Swift #iOS
 
