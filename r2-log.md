@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D46 - April 28, 2018
+The collectionView is still limping along. Not happy with the layout. Added some more content today. Overall a disappointing day of coding. #100DaysOfCode #Swift #iOS
+
 ### R2D45 - April 27, 2018
 Having trouble focusing today. Just want to finish up the collectionView started yesterday. #100DaysOfCode #Swift #iOS
 
