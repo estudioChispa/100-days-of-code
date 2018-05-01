@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D48 - April 30, 2018
+Finally worked out the problems I was having with the collectionView and segue to a detail view. My app is now fully functional!  #100DaysOfCode #Swift #iOS
+
 ### R2D47 - April 29, 2018
 Really been struggling with Swift lately. Today was no exception. Hopefully tomorrow will be a little better.  #100DaysOfCode #Swift #iOS
 
