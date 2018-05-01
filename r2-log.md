@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D49 - May 1, 2018
+Cleaning up a bunch of random UI stuff. Making some text bold, experimenting with colors. Finally found out how to get rid of that annoying padding in a text view. #100DaysOfCode #Swift #iOS 
+
 ### R2D48 - April 30, 2018
 Finally worked out the problems I was having with the collectionView and segue to a detail view. My app is now fully functional!  #100DaysOfCode #Swift #iOS
 
