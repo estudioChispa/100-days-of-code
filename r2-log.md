@@ -4,6 +4,12 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D51 - May 3, 2018
+Wrestling with a scrollview that doesn't want to scroll back to the top after its content has been updated. #100DaysOfCode #Swift #iOS 
+
+### R2D50 - May 2, 2018
+Half way point! #100DaysOfCode #Swift #iOS 
+
 ### R2D49 - May 1, 2018
 Cleaning up a bunch of random UI stuff. Making some text bold, experimenting with colors. Finally found out how to get rid of that annoying padding in a text view. #100DaysOfCode #Swift #iOS 
 
