@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D52 - May 4, 2018
+Too tired to work on anything too challenging. Did a little cleanup and pulled together some images I've been needing. #100DaysOfCode #Swift #iOS 
+
 ### R2D51 - May 3, 2018
 Wrestling with a scrollview that doesn't want to scroll back to the top after its content has been updated. #100DaysOfCode #Swift #iOS 
 
