@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D53 - May 5, 2018
+First time trying a table with multiple prototype cells. Fingers crossed. #100DaysOfCode #Swift #iOS 
+
 ### R2D52 - May 4, 2018
 Too tired to work on anything too challenging. Did a little cleanup and pulled together some images I've been needing. #100DaysOfCode #Swift #iOS 
 
