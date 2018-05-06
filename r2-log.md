@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D54 - May 6, 2018
+So my adventure in multiple prototype cells continues. Now, I need to understand how to use Xcode's debugging tools for unsatisfied constraints. #100DaysOfCode #Swift #iOS 
+
 ### R2D53 - May 5, 2018
 First time trying a table with multiple prototype cells. Fingers crossed. #100DaysOfCode #Swift #iOS 
 
