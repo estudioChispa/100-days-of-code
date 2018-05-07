@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D55 - May 7, 2018
+Finally, all the parts of my app are working together. Tomorrow I'll focus on the localization part. I really want to finish things up this week! #100DaysOfCode #Swift #iOS 
+
 ### R2D54 - May 6, 2018
 So my adventure in multiple prototype cells continues. Now, I need to understand how to use Xcode's debugging tools for unsatisfied constraints. #100DaysOfCode #Swift #iOS 
 
