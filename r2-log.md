@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D57 - May 9, 2018
+Working on text for App Store and a basic support page for the app. Testing the app. And testing the app some more. Hope to submit to the App Store this week! #100DaysOfCode #Swift #iOS 
+
 ### R2D56 - May 8, 2018
 Localization of my app is underway. So far, so good. I thought the process of setting up the localization files was going to be much more difficult than it is. #100DaysOfCode #Swift #iOS 
 
