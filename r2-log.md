@@ -4,6 +4,12 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D61 - May 13, 2018
+I just submitted my first app to the App Store!!! Everybody please keep your fingers crossed for me!  #100DaysOfCode #swift #iOS
+
+### R2D60 - May 12, 2018
+A little delay on some final content for the app so I’ll submit it tomorrow instead of today. No biggie. And my last fix for an issue with the map annotations has worked! Yes! #100DaysOfCode #swift #iOS
+
 ### R2D59 - May 11, 2018
 Really wanted to submit my app to the App Store today, but the last minute stuff took longer than I had planned. Hopefully tomorrow will be the day! #100DaysOfCode #Swift #iOS 
 
