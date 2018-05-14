@@ -5,7 +5,7 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 ## Log
 
 ### R2D62 - May 14, 2018
-Nervous that my app will be rejected by the App Store. Spent some time learning abuot Generics in Swift today. #100DaysOfCode #swift #iOS
+Nervous that my app will be rejected by the App Store. Spent some time learning about Generics in Swift today. #100DaysOfCode #swift #iOS
 
 ### R2D61 - May 13, 2018
 I just submitted my first app to the App Store!!! Everybody please keep your fingers crossed for me!  #100DaysOfCode #swift #iOS
