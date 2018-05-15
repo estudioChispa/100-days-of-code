@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D63 - May 15, 2018
+Planning my next app. Identifying the bits I don't know how to do and creating a plan for figuring them out.  #100DaysOfCode #swift #iOS
+
 ### R2D62 - May 14, 2018
 Nervous that my app will be rejected by the App Store. Spent some time learning about Generics in Swift today. #100DaysOfCode #swift #iOS
 
