@@ -4,6 +4,12 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D64 - May 16, 2018
+Learning about in-app purchases. Pulling together pieces of an older unfinished project that I'm ready to take another run at. #100DaysOfCode #swift #iOS
+
+### R2D63 - May 15, 2018 
+The Statues app is in the App Store!
+
 ### R2D63 - May 15, 2018
 Planning my next app. Identifying the bits I don't know how to do and creating a plan for figuring them out.  #100DaysOfCode #swift #iOS
 
