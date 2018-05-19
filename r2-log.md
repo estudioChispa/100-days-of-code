@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D66 - May 18, 2018
+Working through some tutorials on in-app purchases. Glad I've already gone through getting an app in the store, so at least most of the steps required in iTunes Connect don't seem too scary. #100DaysOfCode #swift #iOS
+
 ### R2D65 - May 17, 2018
 Tutorials on StoreKit, Custom sticker packs, and in-app purchases. It's going to take a few days for me to work through this. #100DaysOfCode #swift #iOS
 
