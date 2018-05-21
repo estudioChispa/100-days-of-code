@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D69 - May 21, 2018
+Taking a short break from In App Purchases. Playing around with CALayer properties. #100DaysOfCode #swift #iOS
+
 ### R2D68 - May 20, 2018
 Slow day. Went back over some code from a few days ago. Slow and steady, right? #100DaysOfCode #swift #iOS
 
