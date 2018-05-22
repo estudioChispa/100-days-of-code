@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D70 - May 22, 2018
+No swift today, just spent some time in HTML and CSS fixing up my website.  #100DaysOfCode #swift #iOS #html #css
+
 ### R2D69 - May 21, 2018
 Taking a short break from In App Purchases. Playing around with CALayer properties. #100DaysOfCode #swift #iOS
 
