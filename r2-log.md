@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D71 - May 23, 2018
+Struggling with a TextView and finding a layout that works on older iPhones as well as the iPhone X. Not happy with it yet, but still working on it. #100DaysOfCode #swift #iOS
+
 ### R2D70 - May 22, 2018
 No swift today, just spent some time in HTML and CSS fixing up my website.  #100DaysOfCode #swift #iOS #html #css
 
