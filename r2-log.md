@@ -5,7 +5,7 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 ## Log
 
 ### R2D72 - May 24, 2018
-Added the next view to the app. I remember having trouble before at this point because I need to access the photo library using UIImagePickerController in landscape mode and that was a problem. We'll see how it goes today. #100DaysOfCode #swift #iOS
+Added antoher view controller to the app. I remember having trouble before at this point because I need to access the photo library using UIImagePickerController in landscape mode and that was a problem. We'll see how it goes today. #100DaysOfCode #swift #iOS
 
 ### R2D71 - May 23, 2018
 Struggling with a TextView and finding a layout that works on older iPhones as well as the iPhone X. Not happy with it yet, but still working on it. #100DaysOfCode #swift #iOS
