@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D74 - May 26, 2018
+Now that I know how to use UIImagePickerController in landscape mode, I think I've decided to restrict the app to portrait mode (for other design reasons). Sigh. #100DaysOfCode #swift #iOS
+
 ### R2D73 - May 25, 2018
 Thank you Stack Overflow for helping me find answers to my #Swift questions. Don't know what I'd do without you. #100DaysOfCode #swift #iOS
 
