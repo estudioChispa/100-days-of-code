@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D73 - May 25, 2018
+Thank you Stack Overflow for helping me find answers to my #Swift questions. Don't know what I'd do without you. #100DaysOfCode #swift #iOS
+
 ### R2D72 - May 24, 2018
 Added antoher view controller to the app. I remember having trouble before at this point because I need to access the photo library using UIImagePickerController in landscape mode and that was a problem. We'll see how it goes today. #100DaysOfCode #swift #iOS
 
