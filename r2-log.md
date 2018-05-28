@@ -5,7 +5,7 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 ## Log
 
 ### R2D76 - May 28, 2018
-Working on programmatically taking a screenshot and sharing it with Facebook, Twitter, and email, etc. #100DaysOfCode #swift #iOS
+Working on programmatically taking a screenshot and sharing it with Facebook, Twitter, email, etc. #100DaysOfCode #swift #iOS
 
 ### R2D75 - May 27, 2018
 Wow, 3/4 of the way through my second round of #100DaysOfCode! I would not have finished my first iOS app (and be working on my second) without this challenge. It has been the perfect way (for me) to build a habit of working on these projects every day. #swift #iOS
