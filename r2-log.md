@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D75 - May 27, 2018
+Wow, 3/4 of the way through my second round of #100DaysOfCode! I would not have finished my first iOS app (and be working on my second) without this challenge. It has been the perfect way (for me) to build a habit of working on these projects every day. #swift #iOS
+
 ### R2D74 - May 26, 2018
 Now that I know how to use UIImagePickerController in landscape mode, I think I've decided to restrict the app to portrait mode (for other design reasons). Sigh. #100DaysOfCode #swift #iOS
 
