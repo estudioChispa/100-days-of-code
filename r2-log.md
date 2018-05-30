@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D77 - May 29, 2018
+Not a lot of time today, but the stuff I did manage to code actually worked. Yay! #100DaysOfCode #swift #iOS
+
 ### R2D76 - May 28, 2018
 Working on programmatically taking a screenshot and sharing it with Facebook, Twitter, email, etc. #100DaysOfCode #swift #iOS
 
