@@ -5,7 +5,7 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 ## Log
 
 ### R2D78 - May 30, 2018
-Spent some time reviewing stuff today. #100DaysOfCode #swift #iOS
+Spent some time reviewing stuff today. Felt like I had been rushing through things lately and needed to slow down. #100DaysOfCode #swift #iOS
 
 ### R2D77 - May 29, 2018
 Not a lot of time today, but the stuff I did manage to code actually worked. Yay! #100DaysOfCode #swift #iOS
