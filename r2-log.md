@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D79 - May 31, 2018
+A little more review today, but mostly just excited about #WWDC next week. #100DaysOfCode #swift #iOS
+
 ### R2D78 - May 30, 2018
 Spent some time reviewing stuff today. Felt like I had been rushing through things lately and needed to slow down. #100DaysOfCode #swift #iOS
 
