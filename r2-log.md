@@ -4,6 +4,15 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D82 - June 3, 2018
+Learning about integraing your app with the Files app. No current application in mind, but something to think about. #100DaysOfCode #swift #iOS
+
+### R2D81 - June 2, 2018
+Travel day so not a lot of time to code. Trying to fit in a little reading before I fall asleep. #100DaysOfCode #swift #iOS
+
+### R2D80 - June 1, 2018
+Trying to come up with a layout for the in-app purchase in my app. Checking out other apps to see how it's been done. #100DaysOfCode #swift #iOS
+
 ### R2D79 - May 31, 2018
 A little more review today, but mostly just excited about #WWDC next week. #100DaysOfCode #swift #iOS
 
