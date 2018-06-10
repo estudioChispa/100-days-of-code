@@ -4,6 +4,11 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R288 - June 10
+Reviewing videos of my favorite sessions from last week and a couple of sessions that I missed. #100DaysOfCode #swift #iOS
+
+### June 9 - Travel Day
+
 ### R2D83-87 - June 4 - 8
 #WWDC18 A week full of #Swift and #iOS. #100DaysOfCode #swift #iOS
 
