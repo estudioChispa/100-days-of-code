@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D89 - June 11
+Learning more about Instruments, mostly the Time Profiler, to get better at finding performance issues. #100DaysOfCode #swift #iOS
+
 ### R2D88 - June 10
 Reviewing videos of my favorite sessions from last week and a couple of sessions that I missed. #100DaysOfCode #swift #iOS
 
