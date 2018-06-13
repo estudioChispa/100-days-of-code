@@ -4,11 +4,14 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D91 - June 13, 2018
+Testing my previous app with Instruments. Still not sure I know what I'm looking for, but I don't think it looks too bad. #100DaysOfCode #swift #iOS #Xcode
+
 ### R2D90 - June 12, 2018
-Only ten more days this round! Still learning about Instruments. Today focusing on the Visual Memory Debugger. Instruments seems very powerful, but I'm still not sure I know what to do when I identify a problem. #100DaysOfCode #swift #iOS
+Only ten more days this round! Still learning about Instruments. Today focusing on the Visual Memory Debugger. Instruments seems very powerful, but I'm still not sure I know what to do when I identify a problem. #100DaysOfCode #swift #iOS #Xcode
 
 ### R2D89 - June 11, 2018
-Learning more about Instruments, mostly the Time Profiler, to get better at finding performance issues. #100DaysOfCode #swift #iOS
+Learning more about Instruments, mostly the Time Profiler, to get better at finding performance issues. #100DaysOfCode #swift #iOS #Xcode
 
 ### R2D88 - June 10, 2018
 Reviewing videos of my favorite sessions from last week and a couple of sessions that I missed. #100DaysOfCode #swift #iOS
