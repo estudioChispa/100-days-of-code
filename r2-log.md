@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D92 - June 14, 2018
+Blowing off my current app project to play around with ARKit. Starting on a tutorial at AppCoda. #100DaysOfCode #swift #iOS
+
 ### R2D91 - June 13, 2018
 Testing my previous app with Instruments. Still not sure I know what I'm looking for, but I don't think it looks too bad. #100DaysOfCode #swift #iOS #Xcode
 
