@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D93-94 - June 15-16, 2018
+Completely obsessed with ARKit. This may take awhile... #100DaysOfCode #swift #iOS #ARKit
+
 ### R2D92 - June 14, 2018
 Blowing off my current app project to play around with ARKit. Starting on a tutorial at AppCoda. #100DaysOfCode #swift #iOS
 
