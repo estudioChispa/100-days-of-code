@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D95-97 - June 17-19, 2018
+Reviewing some concepts that I obviously didn't completely understand the first time through, and taking the time to plan out my next app so I don't waste time on stuff I don't need. #100DaysOfCode #swift #iOS
+
 ### R2D93-94 - June 15-16, 2018
 Completely obsessed with ARKit. This may take awhile... #100DaysOfCode #swift #iOS #ARKit
 
