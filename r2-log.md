@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [March 14, Wednesday, 2018].
 
 ## Log
 
+### R2D98-99 - June 20-21, 2018
+Can't believe tomorrow is the last day of this round of #100DaysOfCode! The last few days I have been focused on reviewing some areas that needed more attention, and planning my next projects. #swift #iOS
+
 ### R2D95-97 - June 17-19, 2018
 Reviewing some concepts that I obviously didn't completely understand the first time through, and taking the time to plan out my next app so I don't waste time on stuff I don't need. #100DaysOfCode #swift #iOS
 
